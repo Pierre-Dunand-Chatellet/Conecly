@@ -11,7 +11,7 @@ body {
   }
   
   .signup-container {
-    background-color: #ffffff; /* Couleur turquoise */
+    background-color: #ffffff; /* fond blanc pour que le formulaire ressorte sur le violet */
     border-radius: 6px;
     padding: 20px;
     text-align: center;
